@@ -19,7 +19,7 @@ org_settings:
   server_settings:
     server_url: $FLEET_URL
   org_info:
-    org_name: PretendCo
+    org_name: Mike Solin Industries, Inc.
   secrets:
     - secret: "$FLEET_GLOBAL_ENROLL_SECRET"
   features:
